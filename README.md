@@ -1,7 +1,7 @@
 # EXPERIMENT--01-ALP-FOR-8086
 ## Name : Kanagavel A K
 ## Roll no : 212223230096
-## Date of experiment : 14.03.25
+## Date of experiment : 10.03.25
 
 
 ## Aim: To Write and execute ALP on fundamental arithmetic and logical operations
